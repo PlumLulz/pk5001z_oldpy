@@ -7,7 +7,7 @@ ESSID is CenturyLinkXXXX \
 Common macs for these modems start with: \
 CC:5D:4E \
 B0:B2:DC \
-FC:F5:28 \
+FC:F5:28
 
 Usage: python3 pk5001z_old.py fcf528a54d6c
 
