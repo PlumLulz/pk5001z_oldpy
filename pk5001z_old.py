@@ -89,7 +89,7 @@ def pk5001z_old(mac, length):
 			list_number = math.floor(list_number / current_mod)
 		print(key.lower())
 
-parser = argparse.ArgumentParser(description='PK5001Z Keygen')
+parser = argparse.ArgumentParser(description='PK5001Z Keygen (for older modems)')
 parser.add_argument('mac', help='Mac Address')
 parser.add_argument('-length', help='Key length', default=14, type=int)
 args = parser.parse_args()
